@@ -1,0 +1,9 @@
+Git y herramientas libres
+
+Qué es Git. 
+Utilidad e importancia de Git como software libre. 
+Concepto de control de versionado de software. 
+Herramientas libres que usan Git. Github. Gitlab. 
+Utilización en la Administración Pública, ejemplos. 
+Entornos visuales para Git. 
+Complementos Git para Visual Studio Code.
