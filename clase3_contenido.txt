@@ -1,0 +1,9 @@
+Organización de proyectos
+
+Definición de ramas (branches). 
+Trabajo simultáneo con ramas. 
+Organización de ramas. 
+Creación de ramas. 
+Comandos básicos para ramas. 
+Ramas en entornos gráficos. 
+Versionado de proyectos y etiquetas (tags).
