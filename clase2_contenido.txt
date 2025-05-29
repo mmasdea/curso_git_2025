@@ -1,0 +1,7 @@
+Repositorios y cambios
+
+Concepto de repositorio. 
+Crear, inicializar, asociar o clonar un repositorio. 
+Creación de repositorios desde Github y Gitlab. 
+Comandos básicos para cambios: commit, push, pull. 
+Buenas prácticas para trabajo en equipo: flujo de trabajo, escritura de títulos y descripciones.
