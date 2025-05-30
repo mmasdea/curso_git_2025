@@ -6,15 +6,17 @@
 **Cantidad de clases :** 3 (tres).  
 **Cantidad de horas :** 6 (seis). 
  
-### *Fundamentación*  
-El protocolo Git es una herramienta de control de versiones de aplicaciones que permite manejar  
+### *Fundamentación* 
+- El protocolo Git es una herramienta de control de versiones de aplicaciones que permite manejar  
 proyectos de cualquier tamaño. Se trata de un software gratuito de código abierto y  
 posibilita que los/as desarrolladores/as realicen tareas sobre el mismo proyecto sin afectar el  
 trabajo de los/as demás.  
-Git impulsa el trabajo ordenado y colaborativo entre trabajadores/as de un mismo sector y hasta entre  
+
+- Git impulsa el trabajo ordenado y colaborativo entre trabajadores/as de un mismo sector y hasta entre  
 diferentes organismos, ya que posibilita la eficiencia, la confiabilidad y compatibilidad del  
 mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de  
 código fuente.  
+
 En tal sentido, a través de esta capacitación se pretende impulsar el uso de esta herramienta que ha  
 dado grandes resultados en DPSIT, ya que usamos Gitlab para desarrollar todas nuestras aplicaciones  
 habiendo mejorado la dinámica de trabajo, para que el resto de las áreas de tecnología la adquieran  
