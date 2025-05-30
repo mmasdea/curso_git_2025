@@ -56,4 +56,4 @@ Definición de ramas (branches). Trabajo simultáneo con ramas. Organización de
 	 
 - Sede 
 
-	Pueden ingresar a través del siguiente enlace: https://www.ipap.gba.gob.ar/cursos-pae.html
+	Pueden ingresar a través del siguiente enlace: https://capacitacionpba.ipap.gba.gob.ar/
